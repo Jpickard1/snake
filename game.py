@@ -24,6 +24,7 @@
 #
 #########################################################################################
 from snake_human import Csnake_human
+from snake_network import Csnake_network
 import pygame
 import random
 import time
